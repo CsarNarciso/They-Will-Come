@@ -1,0 +1,7 @@
+Sandbox_EN = {
+	Sandbox_TheyWillCome = "They Will Come",
+	
+	Sandbox_TheyWillCome_DaysCondition = "Days condition",
+	Sandbox_TheyWillCome_DaysCondition_tooltip = "Days without killing a zombie to start attracting zombies to the player",
+
+}

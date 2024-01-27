@@ -1,0 +1,10 @@
+VERSION = 1,
+
+option TheyWillCome.DaysCondition {
+	type = integer,
+	min = 1,
+	max = 100,
+	default = 3,
+	page = TheyWillCome,
+	translation = TheyWillCome_DaysCondition,
+}
